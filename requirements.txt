@@ -3,3 +3,4 @@ pandas
 Bio
 numpy
 gunicorn
+scikit-learn
